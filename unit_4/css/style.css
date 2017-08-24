@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+	background-color: white;
+	color:#232323;
+	font-family: 'Lato', sans-serif;
+
+}
+
+h1 {
+	font-size: 100px;
+
+}
+
+h2{
+	font-size: 24px;
+	font-weight: bolder;
+	font-style: italic;
+
+}
+
+p{
+	font-weight: lighter;
+}
+
+ul{
+	font-weight: lighter;
+}
+
+a{
+	font-weight: lighter;
+
+}
+
+#email {
+	text-decoration: underline;
+	color: blue; 
+}
+
+#description {
+	width: 500px;  
+	line-height: 150%; 
+}
